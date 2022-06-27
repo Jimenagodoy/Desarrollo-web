@@ -1,0 +1,15 @@
+/*animaciones*/
+
+.linear-gradient{
+ 	background: linear-gradient(to right, forestgreen, lightpink);
+}
+
+.transform: hover{
+	transform: translateY(10px);
+	cursor: pointer;
+}
+
+.scale:hover{
+	transform: scaleY(1.0);
+	cursor: pointer;
+}
